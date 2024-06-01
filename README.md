@@ -1,20 +1,23 @@
 
-[![MasterHead]("https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif")]
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+khadar+oothuru;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majdimokhtar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="majdimokhtar" /> </p>
 
 # Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://w7.pngwing.com/pngs/442/848/png-transparent-pokemon-pokeball-pikachu-thunder-electric-shock-icon.png" width="30" height="30" /> 
 
-<div align="center">
-    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
-</div>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
 
 
 # 💫 About Me:
 🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<br>💬 Ask me about anything Pokémon or full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
 
 ## 🌐 Socials:
@@ -46,6 +49,13 @@
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c37928b4-bd5f-4a02-8f58-6767adbeeb99/daqz77h-e300476b-7010-4a2e-bdc3-34275145aff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzkyOGI0LWJkNWYtNGEwMi04ZjU4LTY3NjdhZGJlZWI5OVwvZGFxejc3aC1lMzAwNDc2Yi03MDEwLTRhMmUtYmRjMy0zNDI3NTE0NWFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjLMdyROW5MeATIxiZwHtkv6nUS4FxAcQf5kmhOZHcU" alt="Pikachu" width="48" height="48"> 
 <img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="48" height="48">
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
+    
+
+</div>
+
 
 
 ## <img src="<img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="8" height="8">" alt="Greninja" width="48" height="48"> About Pokemons 
