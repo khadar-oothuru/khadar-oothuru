@@ -1,4 +1,4 @@
-# Hi there, I'm Ash Ketchum! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" />
+# Hi there, I'm Khadar OOthuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
 ![Pokemon Banner](https://your-banner-link)
 
@@ -8,13 +8,22 @@
 - 🌱 I’m currently learning the art of Pokémon battles.
 - 👯 I’m looking to collaborate on Pokémon fan projects.
 - 🤔 I’m looking for help with developing my Pokédex.
-- 💬 Ask me about anything Pokémon!
-- 📫 How to reach me: [ash.ketchum@pokemon.com](mailto:ash.ketchum@pokemon.com)
+- 💬 Ask me about anything Pokémon or full-stack development!
+- 📫 How to reach me: [khadaroothuru@gmail.com](mailto:khadaroothuru@gmail.com)
 - ⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
 
 ## 🛠️ My Skills
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+![Express.js](https://img.icons8.com/color/48/000000/express.png) 
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 
 ## 🏆 My Stats
 
@@ -23,13 +32,14 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/ashketchum) 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/ashketchum)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:ash.ketchum@pokemon.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/khadar-oothuru-bb36882ab/) 
+[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/KhadarOothru)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:khadaroothuru@gmail.com)
 
 ## 🎮 My Favorite Pokémon
 
-![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png) ![Greninja](https://img.icons8.com/color/48/000000/greninja.png)
+![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png) 
+![Greninja](https://img.icons8.com/color/48/000000/greninja.png)
 
 ## 💡 Fun Projects
 
@@ -56,10 +66,10 @@
 
 ## 🥳 Fun Fact
 
-Did you know that Greninja was voted the most popular Pokémon in a global poll? 🐸💧
+Did you know that Pikachu was almost replaced by Clefairy as the Pokémon mascot? Pikachu's popularity among fans made it the iconic face of the franchise! ⚡✨
 
 ---
 
-**[Follow me on GitHub](https://github.com/ashketchum) for more fun projects and Pokémon content!**
+**[Follow me on GitHub](https://github.com/khadar-oothuru) for more fun projects and Pokémon content!**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ashketchum.ashketchum)
