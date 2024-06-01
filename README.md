@@ -51,7 +51,7 @@
 </div>
 
 
-<hr/>
+
 
  <h2>🔴Fun Fact About Pokemons </h2>
 
