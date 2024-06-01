@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+khadar+oothuru;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 
 
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 # 💫 About Me:
 🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<br>💬 Ask me about anything Pokémon or full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
+
 
 
 ## 🌐 Socials:
@@ -46,13 +46,11 @@
 
 
 <div align="center" style="display: flex; justify-content: center;">
-    <img src="https://24.media.tumblr.com/849e1217feafc74c69c52f21d821e4b9/tumblr_mnb08kJqb11rk7jz5o1_500.gif" style="margin-right: 20px;">
-    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner" style="margin-left: 20px;">
+    <img src="https://24.media.tumblr.com/849e1217feafc74c69c52f21d821e4b9/tumblr_mnb08kJqb11rk7jz5o1_500.gif" style="margin-right: 20px; width: 200px; height: 200px;">
+    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner" style="margin-left: 20px; width: 200px; height: 200px;">
 </div>
 
 
-
-
-## Fun Fact About Pokemons 
+##🔴Fun Fact About Pokemons 
 
 Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
