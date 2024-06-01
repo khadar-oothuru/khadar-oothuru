@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: 2px solid #1dd1a1; animation: typing 3s steps(20) infinite;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30" height="30" />
+# Hi there, I'm <span id="name" style="color: #1dd1a1;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30" height="30" />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
@@ -17,16 +17,16 @@
 ## 🛠️ My Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/express-4-1175029.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-21-569326.png" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-1-1175259.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
@@ -37,9 +37,9 @@
 ## 📬 Connect with Me
 
 <div style="display: flex; gap: 15px;">
-    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48"></a>
-    <a href="https://twitter.com/KhadarOothru"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="48" height="48"></a>
-    <a href="mailto:khadaroothuru@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="48" height="48"></a>
+    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-1156321.png" alt="LinkedIn" width="48" height="48"></a>
+    <a href="https://twitter.com/KhadarOothru"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-152-439579.png" alt="Twitter" width="48" height="48"></a>
+    <a href="mailto:khadaroothuru@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476483.png" alt="Gmail" width="48" height="48"></a>
 </div>
 
 ## 🎮 My Favorite Pokémon
