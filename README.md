@@ -1,3 +1,9 @@
+
+
+<img
+  src ="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" />
+
+
 # Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://w7.pngwing.com/pngs/442/848/png-transparent-pokemon-pokeball-pikachu-thunder-electric-shock-icon.png" width="30" height="30" /> 
 
 <div align="center">
