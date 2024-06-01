@@ -1,6 +1,8 @@
 # Hi there, I'm Khadar Oothuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
-![Pokemon Banner](https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif)
+<div align="center">
+    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -14,16 +16,16 @@
 
 ## 🛠️ My Skills
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) 
-![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
-![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png) 
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
-![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![HTML5](https://cdn.simpleicons.org/html5/E34F26) 
+![CSS3](https://cdn.simpleicons.org/css3/1572B6) 
+![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E) 
+![React](https://cdn.simpleicons.org/react/61DAFB) 
+![Node.js](https://cdn.simpleicons.org/nodedotjs/339933) 
+![Express.js](https://cdn.simpleicons.org/express/000000) 
+![MongoDB](https://cdn.simpleicons.org/mongodb/47A248) 
+![Python](https://cdn.simpleicons.org/python/3776AB) 
+![C++](https://cdn.simpleicons.org/cplusplus/00599C) 
+![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
 
 ## 🏆 My Stats
 
@@ -32,14 +34,15 @@
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/khadar-oothuru-bb36882ab/) 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/KhadarOothru)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:khadaroothuru@gmail.com)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/khadar-oothuru-bb36882ab/) 
+[![Twitter](https://cdn.simpleicons.org/twitter/1DA1F2)](https://x.com/KhadarOothru)
+[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](mailto:khadaroothuru@gmail.com)
 
 ## 🎮 My Favorite Pokémon
 
 ![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png) 
 ![Greninja](https://img.icons8.com/color/48/000000/greninja.png)
+
 <!--
 ## 💡 Fun Projects
 
@@ -60,7 +63,6 @@
 - [Understanding Pokémon Types and Their Strengths](https://blog.pokemon.com/understanding-pokemon-types)
 
  BLOG-POST-LIST:END -->
-
  
 ## 🐱‍🏍 GitHub Activity
 
@@ -68,7 +70,7 @@
 
 ## 🥳 Fun Fact
 
-Did you know that Ash Ketchum has been the Pokémon Champion in multiple regions, but his journey began with a Pikachu that refused to obey him? Talk about growth and teamwork! ⚡✨
+Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release lightning bolts, making it both adorable and formidable! ⚡✨
 
 ---
 
