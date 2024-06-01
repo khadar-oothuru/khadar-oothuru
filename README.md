@@ -27,7 +27,7 @@
   <img src="https://camo.githubusercontent.com/3e66f325a934b32934f7c5ca9e8d761e113038850efa08de74776a5ae628c0f2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f63706c7573706c75732f303035393943" alt="C++" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
   <img src="https://camo.githubusercontent.com/600e29520bb86d7057caba1d8072927e02cab17b203405aa13a6e2c18bdff6a2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7461696c77696e646373732f303642364434" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
-  <img src="https://camo.githubusercontent.com/3066e6c5f3a1cd180e1fa0c8d5c708e3143b604d99e2fe1dd765f77864acf541/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f657870726573732f303030303030" alt="Express.js" width="48" height="48" style="margin: 10px;">
+  <img src="https://camo.githubusercontent.com/3066e6c5f3a1cd180e1fa0c8d5c708e3143b604d99e2fe1dd765f77864acf541/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f657870726573732f303030303030" alt="Express.js" width="48" height="48" style="margin: 10px; color:white">
 </div>
 
 ## 🏆 My Stats
