@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="color: #ff5733;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
+# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
@@ -17,18 +17,17 @@
 ## ️ My Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://thenounproject.com/browse/icons/term/html/" alt="HTML5" width="48" height="48" style="margin: 10px;">
-  <img src="https://help.thenounproject.com/hc/en-us/articles/360003009754-Tips-on-working-with-SVG" alt="CSS3" width="48" height="48" style="margin: 10px;">
-  <img src="https://thenounproject.com/browse/icons/term/javascript/" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-  <img src="https://thenounproject.com/browse/icons/term/react/" alt="React" width="48" height="48" style="margin: 10px;">
-  <img src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg" alt="Node.js" width="48" height="48" style="margin: 10px;">
-  <img src="https://iconscout.com/icons/mongodb" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-  <img src="https://thenounproject.com/browse/icons/term/python/" alt="Python" width="48" height="48" style="margin: 10px;">
-  <img src="https://worldvectorlogo.com/logo/c" alt="C++" width="48" height="48" style="margin: 10px;">
-  <img src="https://icons8.com/icons/set/c-programming" alt="C" width="48" height="48" style="margin: 10px;">
-  <img src="https://flowbite.com/docs/customize/icons/" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
-
 
 ## 🏆 My Stats
 
