@@ -36,7 +36,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🎮 My Favorite Pokémons>! <img src="" width="30" height="30" /> <img src="https://www.flaticon.com/free-icon/pokeball_528101?term=pokemon&page=1&position=4&origin=tag&related_id=528101" width="30" height="30" />
+## 🎮 My Favorite Pokémons>!
+
+<img src="https://www.flaticon.com/free-icon/pokeball_528101?term=pokemon&page=1&position=4&origin=tag&related_id=528101" width="30" height="30" />
 
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c37928b4-bd5f-4a02-8f58-6767adbeeb99/daqz77h-e300476b-7010-4a2e-bdc3-34275145aff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzkyOGI0LWJkNWYtNGEwMi04ZjU4LTY3NjdhZGJlZWI5OVwvZGFxejc3aC1lMzAwNDc2Yi03MDEwLTRhMmUtYmRjMy0zNDI3NTE0NWFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjLMdyROW5MeATIxiZwHtkv6nUS4FxAcQf5kmhOZHcU" alt="Pikachu" width="48" height="48"> 
