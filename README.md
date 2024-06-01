@@ -1,6 +1,6 @@
 # Hi there, I'm Khadar Oothuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
-![Pokemon Banner](https://your-banner-link)
+![Pokemon Banner](https://i.pinimg.com/originals/ad/6c/42/ad6c42e06a8ff7c195ee6a2e0ad15842.gif)
 
 ## 🧑‍💻 About Me
 
