@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-adnge&psig=AOvVaw2GzqqoGw7YQN32aGVmDNJ3&ust=1717315449430000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjQsOP4uYYDFQAAAAAdAAAAABAE" width="30" height="30" /> 
+# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://www.pngwing.com/en/free-png-adnge" width="30" height="30" /> 
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
@@ -38,10 +38,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🎮 My Favorite Pokémon
+## 🎮 My Favorite Pokémons
 
-<img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" alt="Pikachu" width="48" height="48"> 
-<img src="https://img.icons8.com/color/48/000000/greninja.png" alt="Greninja" width="48" height="48">
+<img src="https://www.deviantart.com/elixir5612/art/Pikachu-Icon-649974077" alt="Pikachu" width="48" height="48"> 
+<img src="https://in.pinterest.com/pin/25403185391460719/" alt="Greninja" width="48" height="48">
 
 
 ## 🥳 Fun Fact
