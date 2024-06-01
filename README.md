@@ -17,16 +17,16 @@
 ## 🛠️ My Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://img.icons8.com/ios/50/000000/html-5--v1.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios/50/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v1.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/react.png" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/c.png" alt="C" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
