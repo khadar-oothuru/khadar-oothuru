@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="color: #1dd1a1;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30" height="30" />
+# Hi there, I'm <span id="name" style="color: #ff5733;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
@@ -17,23 +17,23 @@
 ## 🛠️ My Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/html-filetype.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/css-filetype.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-sharp/48/000000/react.png" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-rounded/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/material-outlined/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=dracula)
 
 ## 📬 Connect with Me
 
