@@ -1,3 +1,14 @@
+# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="" width="30" height="30" /> <img src="https://www.flaticon.com/free-icon/pokeball_528101?term=pokemon&page=1&position=4&origin=tag&related_id=528101" width="30" height="30" />
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
+</div>
+
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<br>💬 Ask me about anything Pokémon or full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
 
@@ -27,4 +38,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎮 My Favorite Pokémon
+
+<img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" alt="Pikachu" width="48" height="48"> 
+<img src="https://img.icons8.com/color/48/000000/greninja.png" alt="Greninja" width="48" height="48">
+
+
+## 🥳 Fun Fact
+
+Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release
