@@ -1,6 +1,6 @@
 # Hi there, I'm Khadar Oothuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
-![Pokemon Banner](https://i.pinimg.com/originals/ad/6c/42/ad6c42e06a8ff7c195ee6a2e0ad15842.gif)
+![Pokemon Banner](https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif)
 
 ## 🧑‍💻 About Me
 
@@ -40,7 +40,7 @@
 
 ![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png) 
 ![Greninja](https://img.icons8.com/color/48/000000/greninja.png)
-
+<!--
 ## 💡 Fun Projects
 
 - 🌐 [Pokédex Web App](https://github.com/khadar-oothuru/pokedex-web-app) - A web app to keep track of all Pokémon.
@@ -54,12 +54,14 @@
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+
 - [How to Build a Pokémon Battle Simulator](https://blog.pokemon.com/how-to-build-pokemon-battle-simulator)
 - [Top 10 Pokémon for Competitive Play](https://blog.pokemon.com/top-10-pokemon-competitive-play)
 - [Understanding Pokémon Types and Their Strengths](https://blog.pokemon.com/understanding-pokemon-types)
-<!-- BLOG-POST-LIST:END -->
 
+ BLOG-POST-LIST:END -->
+
+ 
 ## 🐱‍🏍 GitHub Activity
 
 ![Khadar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khadar-oothuru&theme=tokyo-night)
