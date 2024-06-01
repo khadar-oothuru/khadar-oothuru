@@ -32,8 +32,8 @@
 
 ## 🏆 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=dark)
 
 ## 📬 Connect with Me
 
