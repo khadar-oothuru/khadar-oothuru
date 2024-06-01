@@ -44,6 +44,6 @@
 <img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="48" height="48">
 
 
-## 🥳 Fun Fact
+## <img src="<img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="8" height="8">" alt="Greninja" width="48" height="48"> About Pokemons 
 
 Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
