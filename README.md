@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://www.pngwing.com/en/free-png-adnge" width="30" height="30" /> 
+# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://w7.pngwing.com/pngs/442/848/png-transparent-pokemon-pokeball-pikachu-thunder-electric-shock-icon.png" width="30" height="30" /> 
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
