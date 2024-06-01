@@ -45,9 +45,11 @@
 
 
 
-<div align="center">
-    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
+<div align="center" style="display: flex; justify-content: center;">
+    <img src="https://24.media.tumblr.com/849e1217feafc74c69c52f21d821e4b9/tumblr_mnb08kJqb11rk7jz5o1_500.gif" style="margin-right: 20px;">
+    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner" style="margin-left: 20px;">
 </div>
+
 
 
 
