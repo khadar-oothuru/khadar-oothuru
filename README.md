@@ -17,16 +17,17 @@
 ## 🛠️ My Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-10-569380.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" alt="React" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/express-4-1175029.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-21-569326.png" alt="Python" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C++" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-1-1175259.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/officel/40/000000/react.png" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
@@ -37,9 +38,9 @@
 ## 📬 Connect with Me
 
 <div style="display: flex; gap: 15px;">
-    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-42-1156321.png" alt="LinkedIn" width="48" height="48"></a>
-    <a href="https://twitter.com/KhadarOothru"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-152-439579.png" alt="Twitter" width="48" height="48"></a>
-    <a href="mailto:khadaroothuru@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476483.png" alt="Gmail" width="48" height="48"></a>
+    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"></a>
+    <a href="https://twitter.com/KhadarOothru"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="48" height="48"></a>
+    <a href="mailto:khadaroothuru@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="48" height="48"></a>
 </div>
 
 ## 🎮 My Favorite Pokémon
