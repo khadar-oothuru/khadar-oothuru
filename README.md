@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="" width="30" height="30" /> <img src="https://www.flaticon.com/free-icon/pokeball_528101?term=pokemon&page=1&position=4&origin=tag&related_id=528101" width="30" height="30" />
+# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-adnge&psig=AOvVaw2GzqqoGw7YQN32aGVmDNJ3&ust=1717315449430000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjQsOP4uYYDFQAAAAAdAAAAABAE" width="30" height="30" /> 
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
