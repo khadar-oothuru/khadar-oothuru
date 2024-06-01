@@ -1,4 +1,4 @@
-# Hi there, I'm <span id="name">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30" height="30" />
+# Hi there, I'm <span id="name" style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: 2px solid #1dd1a1; animation: typing 3s steps(20) infinite;">Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30" height="30" />
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
@@ -18,7 +18,15 @@
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <!-- Add the rest of your skills icons here -->
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
@@ -52,23 +60,3 @@ Did you know that Pikachu is an Electric-type Pokémon that can generate powerfu
 **[Follow me on GitHub](https://github.com/khadar-oothuru) for more fun projects and Pokémon content!**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khadar-oothuru.khadar-oothuru)
-
-<style>
-    @keyframes typing {
-        from {
-            width: 0;
-        }
-
-        to {
-            width: 100%;
-        }
-    }
-
-    #name {
-        display: inline-block;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 2px solid #1dd1a1;
-        animation: typing 3s steps(20) infinite;
-    }
-</style>
