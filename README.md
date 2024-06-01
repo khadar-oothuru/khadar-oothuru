@@ -27,6 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
