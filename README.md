@@ -2,11 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+khadar+oothuru;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)<img src="https://w7.pngwing.com/pngs/442/848/png-transparent-pokemon-pokeball-pikachu-thunder-electric-shock-icon.png" width="30" height="30" /> 
-
-# Hi there, I'm <span id="name" style="color: yellow;">Khadar Oothuru</span>! 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=22&color=016EEA&size=24&center=true&lines=Hi+there+%F0%9F%91%8B%2C++I'am+khadar+oothuru;Welcome+to+my+Profile!;I'am+a+Full+stack+JavaScript+developer;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 
 
 
@@ -40,19 +36,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🎮 My Favorite Pokémons
+## 🎮 My Favorite Pokémons>! <img src="" width="30" height="30" /> <img src="https://www.flaticon.com/free-icon/pokeball_528101?term=pokemon&page=1&position=4&origin=tag&related_id=528101" width="30" height="30" />
+
 
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c37928b4-bd5f-4a02-8f58-6767adbeeb99/daqz77h-e300476b-7010-4a2e-bdc3-34275145aff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzkyOGI0LWJkNWYtNGEwMi04ZjU4LTY3NjdhZGJlZWI5OVwvZGFxejc3aC1lMzAwNDc2Yi03MDEwLTRhMmUtYmRjMy0zNDI3NTE0NWFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjLMdyROW5MeATIxiZwHtkv6nUS4FxAcQf5kmhOZHcU" alt="Pikachu" width="48" height="48"> 
 <img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="48" height="48">
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
-    
-
 </div>
 
 
 
-## <img src="<img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="8" height="8">" alt="Greninja" width="48" height="48"> About Pokemons 
+## Fun Fact About Pokemons 
 
 Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
