@@ -1,40 +1,40 @@
-# Hi there, I'm Khadar OOthuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
+# Hi there, I'm Khadar Oothuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
 
 ![Pokemon Banner](https://your-banner-link)
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on catching them all!
-- 🌱 I’m currently learning the art of Pokémon battles.
-- 👯 I’m looking to collaborate on Pokémon fan projects.
-- 🤔 I’m looking for help with developing my Pokédex.
+- 🔭 I’m currently working on mastering the art of full-stack development!
+- 🌱 I’m currently learning advanced MERN stack techniques.
+- 👯 I’m looking to collaborate on innovative web projects.
+- 🤔 I’m looking for help with optimizing React performance.
 - 💬 Ask me about anything Pokémon or full-stack development!
 - 📫 How to reach me: [khadaroothuru@gmail.com](mailto:khadaroothuru@gmail.com)
 - ⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
 
 ## 🛠️ My Skills
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-![Express.js](https://img.icons8.com/color/48/000000/express.png) 
+![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png) 
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
-![Python](https://img.icons8.com/color/48/000000/python.png) 
+![Python](https://img.icons8.com/color/48/000000/python--v1.png) 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 
 ## 🏆 My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashketchum&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashketchum&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=tokyonight)
 
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/khadar-oothuru-bb36882ab/) 
-[![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://x.com/KhadarOothru)
-[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:khadaroothuru@gmail.com)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/KhadarOothru)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:khadaroothuru@gmail.com)
 
 ## 🎮 My Favorite Pokémon
 
@@ -43,14 +43,14 @@
 
 ## 💡 Fun Projects
 
-- 🌐 [Pokédex Web App](https://github.com/ashketchum/pokedex-web-app) - A web app to keep track of all Pokémon.
-- 🎮 [Pokémon Battle Simulator](https://github.com/ashketchum/pokemon-battle-simulator) - A simulator for Pokémon battles.
-- 📱 [Pokémon Tracker Mobile App](https://github.com/ashketchum/pokemon-tracker) - An app to track your Pokémon collection.
+- 🌐 [Pokédex Web App](https://github.com/khadar-oothuru/pokedex-web-app) - A web app to keep track of all Pokémon.
+- 🎮 [Pokémon Battle Simulator](https://github.com/khadar-oothuru/pokemon-battle-simulator) - A simulator for Pokémon battles.
+- 📱 [Pokémon Tracker Mobile App](https://github.com/khadar-oothuru/pokemon-tracker) - An app to track your Pokémon collection.
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashketchum&repo=pokedex-web-app&theme=tokyonight)](https://github.com/ashketchum/pokedex-web-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashketchum&repo=pokemon-battle-simulator&theme=tokyonight)](https://github.com/ashketchum/pokemon-battle-simulator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khadar-oothuru&repo=pokedex-web-app&theme=tokyonight)](https://github.com/khadar-oothuru/pokedex-web-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khadar-oothuru&repo=pokemon-battle-simulator&theme=tokyonight)](https://github.com/khadar-oothuru/pokemon-battle-simulator)
 
 ## 📝 Latest Blog Posts
 
@@ -62,14 +62,14 @@
 
 ## 🐱‍🏍 GitHub Activity
 
-![Ash's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashketchum&theme=tokyo-night)
+![Khadar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khadar-oothuru&theme=tokyo-night)
 
 ## 🥳 Fun Fact
 
-Did you know that Pikachu was almost replaced by Clefairy as the Pokémon mascot? Pikachu's popularity among fans made it the iconic face of the franchise! ⚡✨
+Did you know that Ash Ketchum has been the Pokémon Champion in multiple regions, but his journey began with a Pikachu that refused to obey him? Talk about growth and teamwork! ⚡✨
 
 ---
 
 **[Follow me on GitHub](https://github.com/khadar-oothuru) for more fun projects and Pokémon content!**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ashketchum.ashketchum)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khadar-oothuru.khadar-oothuru)
