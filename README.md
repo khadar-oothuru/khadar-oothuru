@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+  <img src="https://camo.githubusercontent.com/600e29520bb86d7057caba1d8072927e02cab17b203405aa13a6e2c18bdff6a2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7461696c77696e646373732f303642364434" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
 </div>
 
