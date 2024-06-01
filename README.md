@@ -17,17 +17,17 @@
 ## ️ My Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML5" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS3" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/windows/32/000000/node-js.png" alt="Node.js" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios/50/000000/mongodb.png" alt="MongoDB" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="48" height="48" style="margin: 10px;">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="48" height="48" style="margin: 10px;">
-  <img src="https://camo.githubusercontent.com/600e29520bb86d7057caba1d8072927e02cab17b203405aa13a6e2c18bdff6a2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7461696c77696e646373732f303642364434" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+  <img src="https://img.icons8.com/ios-filled/50/000000/express.png" alt="Express.js" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
@@ -38,9 +38,9 @@
 ## 📬 Connect with Me
 
 <div style="display: flex; gap: 15px; justify-content: center;">
-    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"></a>
-    <a href="https://twitter.com/KhadarOothru"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="48" height="48"></a>
-    <a href="mailto:khadaroothuru@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="48" height="48"></a>
+    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="48" height="48"></a>
+    <a href="https://twitter.com/KhadarOothru"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter" width="48" height="48"></a>
+    <a href="mailto:khadaroothuru@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" width="48" height="48"></a>
 </div>
 
 ## 🎮 My Favorite Pokémon
@@ -54,10 +54,4 @@
 
 ## 🥳 Fun Fact
 
-Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release lightning bolts, making it both adorable and formidable! ⚡✨
-
----
-
-**[Follow me on GitHub](https://github.com/khadar-oothuru) for more fun projects and Pokémon content!**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khadar-oothuru.khadar-oothuru)
+Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release
