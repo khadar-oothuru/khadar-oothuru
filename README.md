@@ -51,7 +51,8 @@
 </div>
 
 
+<hr/>
 
-##🔴Fun Fact About Pokemons 
+ <h2>🔴Fun Fact About Pokemons </h2>
 
 Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
