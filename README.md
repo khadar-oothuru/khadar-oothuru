@@ -17,16 +17,16 @@
 ## 🛠️ My Skills
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="48" height="48" style="margin: 10px;">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" alt="Express.js" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++" width="48" height="48" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 10px;">
 </div>
 
 ## 🏆 My Stats
@@ -37,9 +37,9 @@
 ## 📬 Connect with Me
 
 <div style="display: flex; gap: 15px;">
-    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48"></a>
-    <a href="https://x.com/KhadarOothru"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="48" height="48"></a>
-    <a href="mailto:khadaroothuru@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="48" height="48"></a>
+    <a href="https://www.linkedin.com/in/khadar-oothuru-bb36882ab/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
+    <a href="https://twitter.com/KhadarOothru"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="48" height="48"></a>
+    <a href="mailto:khadaroothuru@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="48" height="48"></a>
 </div>
 
 ## 🎮 My Favorite Pokémon
