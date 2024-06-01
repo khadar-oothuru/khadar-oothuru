@@ -1,79 +1,103 @@
-# Hi there, I'm Khadar Oothuru! <img src="https://img.icons8.com/color/48/000000/pikachu-pokemon.png" width="30" height="30" /> <img src="https://img.icons8.com/color/48/000000/greninja.png" width="30" height="30" />
+<!DOCTYPE html>
+<html lang="en">
 
-<div align="center">
-    <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner"/>
-</div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khadar Oothuru's Portfolio</title>
+    <style>
+        @keyframes typing {
+            from {
+                width: 0;
+            }
 
-## 🧑‍💻 About Me
+            to {
+                width: 100%;
+            }
+        }
 
-- 🔭 I’m currently working on mastering the art of full-stack development!
-- 🌱 I’m currently learning advanced MERN stack techniques.
-- 👯 I’m looking to collaborate on innovative web projects.
-- 🤔 I’m looking for help with optimizing React performance.
-- 💬 Ask me about anything Pokémon or full-stack development!
-- 📫 How to reach me: [khadaroothuru@gmail.com](mailto:khadaroothuru@gmail.com)
-- ⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
+        @keyframes color-change {
+            0% {
+                color: #FF6B6B;
+            }
 
-## 🛠️ My Skills
+            50% {
+                color: #48dbfb;
+            }
 
-![HTML5](https://cdn.simpleicons.org/html5/E34F26) 
-![CSS3](https://cdn.simpleicons.org/css3/1572B6) 
-![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E) 
-![React](https://cdn.simpleicons.org/react/61DAFB) 
-![Node.js](https://cdn.simpleicons.org/nodedotjs/339933) 
-![Express.js](https://cdn.simpleicons.org/express/000000) 
-![MongoDB](https://cdn.simpleicons.org/mongodb/47A248) 
-![Python](https://cdn.simpleicons.org/python/3776AB) 
-![C++](https://cdn.simpleicons.org/cplusplus/00599C) 
-![Tailwind CSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
+            100% {
+                color: #1dd1a1;
+            }
+        }
 
-## 🏆 My Stats
+        h1 span {
+            animation: typing 3s steps(20) infinite, color-change 5s infinite;
+        }
+    </style>
+</head>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadar-oothuru&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadar-oothuru&layout=compact&theme=tokyonight)
+<body>
+    <div align="center">
+        <h1>Hi there, I'm <span>Khadar Oothuru</span>! <img src="https://img.icons8.com/color/48/pikachu-pokemon.png"
+                width="30" height="30" /> <img src="https://img.icons8.com/color/48/greninja.png" width="30"
+                height="30" /></h1>
+    </div>
 
-## 📬 Connect with Me
+    <div align="center">
+        <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif"
+            alt="Pokemon Banner" />
+    </div>
 
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/khadar-oothuru-bb36882ab/) 
-[![Twitter](https://cdn.simpleicons.org/twitter/1DA1F2)](https://x.com/KhadarOothru)
-[![Gmail](https://cdn.simpleicons.org/gmail/EA4335)](mailto:khadaroothuru@gmail.com)
+    <h2 align="center">🧑‍💻 About Me</h2>
 
-## 🎮 My Favorite Pokémon
+    <ul>
+        <li align="center">🔭 I’m currently working on mastering the art of full-stack development!</li>
+        <li align="center">🌱 I’m currently learning advanced MERN stack techniques.</li>
+        <li align="center">👯 I’m looking to collaborate on innovative web projects.</li>
+        <li align="center">🤔 I’m looking for help with optimizing React performance.</li>
+        <li align="center">💬 Ask me about anything Pokémon or full-stack development!</li>
+        <li align="center">📫 How to reach me: <a href="mailto:khadaroothuru@gmail.com">khadaroothuru@gmail.com</a>
+        </li>
+        <li align="center">⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.</li>
+    </ul>
 
-![Pikachu](https://img.icons8.com/color/48/000000/pikachu-pokemon.png) 
-![Greninja](https://img.icons8.com/color/48/000000/greninja.png)
+    <h2 align="center">🛠️ My Skills</h2>
 
-<!--
-## 💡 Fun Projects
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="48" height="48"
+            style="margin: 10px;">
+        <!-- Add the rest of your skills icons here -->
+    </div>
 
-- 🌐 [Pokédex Web App](https://github.com/khadar-oothuru/pokedex-web-app) - A web app to keep track of all Pokémon.
-- 🎮 [Pokémon Battle Simulator](https://github.com/khadar-oothuru/pokemon-battle-simulator) - A simulator for Pokémon battles.
-- 📱 [Pokémon Tracker Mobile App](https://github.com/khadar-oothuru/pokemon-tracker) - An app to track your Pokémon collection.
+    <h2 align="center">🏆 My Stats</h2>
 
-## 🌟 Featured Repositories
+    <div align="center">
+        <!-- Add your GitHub stats and top languages widgets here -->
+    </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khadar-oothuru&repo=pokedex-web-app&theme=tokyonight)](https://github.com/khadar-oothuru/pokedex-web-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khadar-oothuru&repo=pokemon-battle-simulator&theme=tokyonight)](https://github.com/khadar-oothuru/pokemon-battle-simulator)
+    <h2 align="center">📬 Connect with Me</h2>
 
-## 📝 Latest Blog Posts
+    <div style="display: flex; gap: 15px; justify-content: center;">
+        <!-- Add your social media icons here with links -->
+    </div>
 
+    <h2 align="center">🎮 My Favorite Pokémon</h2>
 
-- [How to Build a Pokémon Battle Simulator](https://blog.pokemon.com/how-to-build-pokemon-battle-simulator)
-- [Top 10 Pokémon for Competitive Play](https://blog.pokemon.com/top-10-pokemon-competitive-play)
-- [Understanding Pokémon Types and Their Strengths](https://blog.pokemon.com/understanding-pokemon-types)
+    <div align="center">
+        <!-- Add your favorite Pokémon images here -->
+    </div>
 
- BLOG-POST-LIST:END -->
- 
-## 🐱‍🏍 GitHub Activity
+    <h2 align="center">🐱‍🏍 GitHub Activity</h2>
 
-![Khadar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khadar-oothuru&theme=tokyo-night)
+    <div align="center">
+        <!-- Add your GitHub activity graph here -->
+    </div>
 
-## 🥳 Fun Fact
+    <h2 align="center">🥳 Fun Fact</h2>
 
-Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release lightning bolts, making it both adorable and formidable! ⚡✨
+    <p align="center">Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity?
+        In fact, its red cheeks store electrical sacs that it uses to release lightning bolts,</p>
 
----
+</body>
 
-**[Follow me on GitHub](https://github.com/khadar-oothuru) for more fun projects and Pokémon content!**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=khadar-oothuru.khadar-oothuru)
+</html>
