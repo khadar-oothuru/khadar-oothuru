@@ -40,10 +40,10 @@
 
 ## 🎮 My Favorite Pokémons
 
-<img src="https://www.deviantart.com/elixir5612/art/Pikachu-Icon-649974077" alt="Pikachu" width="48" height="48"> 
-<img src="https://in.pinterest.com/pin/25403185391460719/" alt="Greninja" width="48" height="48">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c37928b4-bd5f-4a02-8f58-6767adbeeb99/daqz77h-e300476b-7010-4a2e-bdc3-34275145aff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzkyOGI0LWJkNWYtNGEwMi04ZjU4LTY3NjdhZGJlZWI5OVwvZGFxejc3aC1lMzAwNDc2Yi03MDEwLTRhMmUtYmRjMy0zNDI3NTE0NWFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjLMdyROW5MeATIxiZwHtkv6nUS4FxAcQf5kmhOZHcU" alt="Pikachu" width="48" height="48"> 
+<img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="48" height="48">
 
 
 ## 🥳 Fun Fact
 
-Did you know that Pikachu is an Electric-type Pokémon that can generate powerful electricity? In fact, its red cheeks store electrical sacs that it uses to release
+Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
