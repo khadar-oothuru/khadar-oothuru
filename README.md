@@ -25,18 +25,18 @@
 ![](https://github-profile-trophy.vercel.app/?username=khadar-oothuru&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 -->
 
-<!--
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
--->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khadar-oothuru&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+<!--
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+-->
 
 
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
