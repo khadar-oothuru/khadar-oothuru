@@ -7,8 +7,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 💫 About Me:
-🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<br>💬 Ask me about anything Pokémon or full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>⚡ Fun fact: I have a Pikachu that refuses to stay in its Pokéball.
-
+🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<be
+                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                >
+💬 Ask me about anything full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -33,10 +35,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khadar-oothuru&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-
+<!--
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
+-->
 
 
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
@@ -58,8 +60,8 @@
 
 
 
-
-
+<!--
  <h2>🔴Fun Fact About Pokemons </h2>
 
 Pikachu and Greninja walk into a Pokémon battle. Pikachu says, 'I'm feeling electrified!' Greninja replies, 'Well, I'm feeling adaptable!' ⚡🐸
+-->
