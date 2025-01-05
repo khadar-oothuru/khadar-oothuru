@@ -7,10 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 💫 About Me:
-🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<be
-                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                >
-💬 Ask me about anything full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>
+🔭 I’m currently working on mastering the art of full-stack development!<br>🌱 I’m currently learning advanced MERN stack techniques.<br>👯 I’m looking to collaborate on innovative web projects.<br>🤔 I’m looking for help with optimizing React performance.<br>💬 Ask me about anything full-stack development!<br>📫 How to reach me: khadaroothuru@gmail.com<br>
 
 
 ## 🌐 Socials:
