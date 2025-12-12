@@ -40,7 +40,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=khadar-oothuru&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<div style="display: inline;">
+<!-- <div style="display: inline;">
     <h2>🎮 My Favorite Pokémons! </h2>
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c37928b4-bd5f-4a02-8f58-6767adbeeb99/daqz77h-e300476b-7010-4a2e-bdc3-34275145aff6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzkyOGI0LWJkNWYtNGEwMi04ZjU4LTY3NjdhZGJlZWI5OVwvZGFxejc3aC1lMzAwNDc2Yi03MDEwLTRhMmUtYmRjMy0zNDI3NTE0NWFmZjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BjLMdyROW5MeATIxiZwHtkv6nUS4FxAcQf5kmhOZHcU" alt="Pikachu" width="30" height="30" style="display: inline;"> 
     <img src="https://pbs.twimg.com/media/D0sRdbRXgAAH6-5?format=jpg&name=medium" alt="Greninja" width="30" height="30" style="display: inline;">
@@ -52,7 +52,7 @@
 <div align="center" style="display: flex; justify-content: space-between;">
     <img src="https://24.media.tumblr.com/849e1217feafc74c69c52f21d821e4b9/tumblr_mnb08kJqb11rk7jz5o1_500.gif" style="margin-right: 20px; width: 300px; height: 300px;">
     <img src="https://i.pinimg.com/originals/84/73/30/8473305740daf36cbbb6b2bba9257b83.gif" alt="Pokemon Banner" style="margin-left: 20px; width: 300px; height: 300px;">
-</div>
+</div> -->
 
 
 
